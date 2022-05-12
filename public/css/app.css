@@ -11247,3 +11247,6 @@ textarea.form-control-lg {
   max-width: 18rem;
   height: 300px;
 }
+.col-3 .card .card-header {
+  height: 60px;
+}
